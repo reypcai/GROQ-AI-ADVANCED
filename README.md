@@ -365,7 +365,7 @@ MIT License
 
 # 👤 Author
 
-Your Name  
+Rey Nikolaev  
 Built with Groq + FastAPI  
 
 ---
